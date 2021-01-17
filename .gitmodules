@@ -381,7 +381,7 @@ url=https://github.com/bitfocus/companion-module-opticis-omm-1000.git
 	url = https://github.com/bitfocus/companion-module-roland-v600uhd.git
 [submodule "lib/module/vaddio-ptz"]
 	path = lib/module/vaddio-ptz
-	url = https://github.com/bitfocus/companion-module-vaddio-ptz.git
+	url = https://github.com/mounte/companion-module-vaddio-ptz.git
 [submodule "lib/module/analogway-vertige"]
 	path = lib/module/analogway-vertige
 	url = https://github.com/bitfocus/companion-module-analogway-vertige.git
